@@ -24,6 +24,7 @@ The total build weight is approximately 210 grams, making it lightweight and sui
 | **LED Indicator** | 3 mm / 5 mm (red or blue) | 1 | Indicates charging or power status |
 | **Push Button Switch** | Momentary type | 1 | Used for manual control or charging on/off function |
 
+![Drone Prototype](https://github.com/akhil-singh-jee/PicoW-Based-Drone/blob/main/Images/picow%20Drone%20Image.jpg)
 
 ### Some extra tools/parts used in the project:
 	
